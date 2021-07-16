@@ -1,1 +1,1 @@
-Created javascript function to grapohically visualize Real-time data.
+Developed a webite to graphically visualize time-series real-time data.
