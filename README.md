@@ -1,0 +1,1 @@
+Created javascript function to grapohically visualize Real-time data.
